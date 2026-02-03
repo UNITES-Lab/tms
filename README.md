@@ -1,2 +1,5 @@
-# tms
-# Code for "The Adaptive Interrogator: Detecting Trojan LLMs in Multi-Agent Systems via Evolved Conversational Strategies." 
+# Code for "TMS: Trajectory-Mixed Supervision for Reward-Free, On-Policy SFT."
+Code for "TMS: Trajectory-Mixed Supervision for Reward-Free, On-Policy SFT"
+
+
+Updates coming soon.
